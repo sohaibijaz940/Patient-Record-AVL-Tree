@@ -1,5 +1,7 @@
 # CareIndex — from a patient-ID AVL tree to clinic workflows
 
+**[Try the live CareIndex demo](https://sohaibijaz.dev/demos/careindex/tour/)** · [Case study](https://sohaibijaz.dev/projects/patient-record-avl-tree/) · [Portfolio](https://sohaibijaz.dev)
+
 ![Modern CareIndex interface](https://raw.githubusercontent.com/sohaibijaz940/sohaib-engineering-portfolio/main/public/previews/careindex.webp)
 
 This repository preserves the original C++ Data Structures and Algorithms project for patient identifiers. The portfolio refinement is **CareIndex**, a synthetic clinic demonstration with an accompanying algorithm lab.
